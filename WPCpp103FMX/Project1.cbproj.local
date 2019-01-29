@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/01/16 15:12:04.000.907,=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/01/16 15:12:05.000.454,=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/01/18 18:37:56.000.634,=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/01/18 18:37:56.000.494,=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/01/18 18:42:42.000.931,C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\WPCpp103FMX\Unit1.fmx=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/01/18 18:42:42.000.931,C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\WPCpp103FMX\Unit1.h=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2019/01/18 18:42:42.000.931,C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\WPCpp103FMX\Unit1.cpp=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/01/18 18:42:49.000.853,C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\WPCpp103FMX\Project1PCH1.h=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/01/18 18:43:42.000.442,C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\WPCpp103FMX\Project1.cbproj=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android=""/>
+		<Pjpmschikugi1 iOSDevice64="_iosdevice_00008020-000A20C41EF8002E"/>
+	</ActiveMobileDevice>
+</BorlandProject>

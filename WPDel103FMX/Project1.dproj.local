@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/25 16:33:09.000.877,=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/09 09:56:43.000.797,=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/09 10:03:03.000.498,=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/09 11:54:23.000.427,=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/09 13:10:28.000.438,C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\WPDel103FMX\Unit1.fmx</Transaction>
+    <Transaction>2019/01/09 13:10:28.000.438,C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\WPDel103FMX\Unit1.pas</Transaction>
+    <Transaction>2019/01/09 13:10:43.000.629,C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\WPDel103FMX\Project1.dproj</Transaction>
+    <Transaction>2019/01/09 21:41:03.000.400,C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\WPDel103FMX\FMXCamera.dproj=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\WPDel103FMX\Project1.dproj</Transaction>
+    <Transaction>2019/01/21 14:58:51.000.002,C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\WPDel103FMX\FMXCamera.dproj=C:\Users\schikugi\Documents\Embarcadero\Studio\Projects\WPDel103FMX\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="8BKX1BPJ7"/>
+		<Pjpmschikugi1 iOSSimulator="iPhone5" iOSDevice64="_iosdevice_00008020-000A20C41EF8002E"/>
+	</ActiveMobileDevice>
+</BorlandProject>
